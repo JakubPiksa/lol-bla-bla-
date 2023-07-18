@@ -1,3 +1,3 @@
-# https://jakubpiksa.github.io/goit-react-hw-01-components/
+# https://jakubpiksa.github.io/lol-bla-bla-/
 
 Zadanie domowe Jakub Piksa
